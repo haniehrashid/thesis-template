@@ -10,6 +10,12 @@ Here: upload (1) a .md file with a list of terms/topics and their definition and
  ## club
  [open source hardware](https://www.oshwa.org) </br>
  [L’association PoBot Sopha Antipolis](https://pobot.org) </br>
+ [Le club robotique de SUPAERO](https://www.isae-alumni.net/fr/groupe/club-robotique-2287) </br>
+ [µART](http://u.art.free.fr) </br>
+ [ENSSAT](http://robot.management.enssat.fr) </br>
+ [Le club de robotique de l'EPFL](http://robopoly.epfl.ch) </br>
+ [RCVA](https://www.rcva.fr)
+ [CVRA](http://www.cvra.ch)
  
 
 
