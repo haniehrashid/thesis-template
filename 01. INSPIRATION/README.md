@@ -8,7 +8,7 @@ Here: upload (1) a .md file with a list of terms/topics and their definition and
 [Simone Giert](https://www.youtube.com/@simonegiertz) </br>
 
  ## club
- [open source hardware](https://www.oshwa.org) </br>
+
  [L’association PoBot Sopha Antipolis](https://pobot.org) </br>
  [Le club robotique de SUPAERO](https://www.isae-alumni.net/fr/groupe/club-robotique-2287) </br>
  [µART](http://u.art.free.fr) </br>
@@ -21,6 +21,14 @@ Here: upload (1) a .md file with a list of terms/topics and their definition and
 
  [futurekid](https://futurekids.io/index/fr)</br> 
  [code camp](https://fr.codecampworld.ch) </br>
+ [epfl](https://www.epfl.ch/education/education-and-science-outreach/fr/jeunepublic/ateliers-semestriels/construire-et-programmer-robot/)</br>
+ [little sienctiste](https://littlescientists.ch)</br>
+ [techlab](https://techlabs.ch/after-school-classes/)</br>
+ 
+ ## online community
+
+ [open source hardware](https://www.oshwa.org) </br>
+ 
 
 
 
