@@ -19,9 +19,9 @@ Here: upload (1) a .md file with a list of terms/topics and their definition and
 
  ## Club for kid 
 
- [futurekid] (https://futurekids.io/index/fr)</br> 
- [code camp] (https://fr.codecampworld.ch) </br>
- 
+ [futurekid](https://futurekids.io/index/fr)</br> 
+ [code camp](https://fr.codecampworld.ch) </br>
+
 
 
 
