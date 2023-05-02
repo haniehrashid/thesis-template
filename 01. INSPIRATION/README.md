@@ -14,9 +14,16 @@ Here: upload (1) a .md file with a list of terms/topics and their definition and
  [µART](http://u.art.free.fr) </br>
  [ENSSAT](http://robot.management.enssat.fr) </br>
  [Le club de robotique de l'EPFL](http://robopoly.epfl.ch) </br>
- [RCVA](https://www.rcva.fr)
- [CVRA](http://www.cvra.ch)
+ [RCVA](https://www.rcva.fr) </br>
+ [CVRA](http://www.cvra.ch) </br>
+
+ ## Club for kid 
+
+ [futurekid] (https://futurekids.io/index/fr)</br> 
+ [code camp] (https://fr.codecampworld.ch) </br>
  
+
+
 
 
 
